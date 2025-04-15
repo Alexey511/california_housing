@@ -27,7 +27,7 @@
 - scipy
 - sklearn
 - statsmodels
-- Стандартные библиотеки python
+- стандартные библиотеки python
 
 ## Датасет
 - Использован датасет California Housing.
